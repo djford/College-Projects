@@ -1,0 +1,12 @@
+Car,Sam,20.5,2500
+Car,Cleo,30,3100
+TractorTrailer,Arnold,7,12000,18
+Car,Don,20,3000
+TractorTrailer,Joe,10.5,10000,16
+Car,Jess,22,2500
+Car,Clancy,35,1900
+TractorTrailer,Barney,4,14000,36
+Car,Julie,32.5,2200
+TractorTrailer,Mabel,14,6000,12
+Car,Terry,42,1800
+Car,Megan,18.5,2900
